@@ -1,0 +1,10 @@
+insert into producto ( nombre, precio, fecha_creacion) values ( 'Chicken - Leg / Back Attach', '20.33', NOW() );
+insert into producto ( nombre, precio, fecha_creacion) values ( 'Mushroom Morel Fresh', '14.46', NOW());
+insert into producto ( nombre, precio, fecha_creacion) values ( 'Ham Black Forest', '27.32', NOW());
+insert into producto ( nombre, precio, fecha_creacion) values ( 'Muffin - Mix - Bran And Maple 15l', '92.31', NOW());
+insert into producto ( nombre, precio, fecha_creacion) values ( 'Apricots - Halves', '24.85', NOW());
+insert into producto ( nombre, precio, fecha_creacion) values ( 'Flower - Potmums', '31.70', NOW());
+insert into producto ( nombre, precio, fecha_creacion) values ( 'Bread - Burger', '5.85', NOW());
+insert into producto ( nombre, precio, fecha_creacion) values ( 'Onions - Spanish', '36.33', NOW());
+insert into producto ( nombre, precio, fecha_creacion) values ( 'Sauce - Vodka Blush', '30.16', NOW());
+insert into producto ( nombre, precio, fecha_creacion) values ( 'Currants', '14.17', NOW());
